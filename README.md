@@ -1,1 +1,1 @@
-# MyReactCalculator
+Simple Calculator created with React
